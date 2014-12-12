@@ -6,7 +6,7 @@
 	background-image: url("background.jpg");
 	height: 400px;
 	width: 100%;
-	background-size: cover; /* A mobile-first design must*/
+	background-size: cover; /* A responsive-design must*/
 }
 
 #topRow {
@@ -52,4 +52,8 @@
 
 .appStoreImg {
 	width: 250px;
+}
+
+#emailSignup {
+	margin-top: 50px;
 }
